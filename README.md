@@ -12,4 +12,4 @@
 </p>
 
 ## Competitive Programming
-![LeetCode](https://leetcard.jacoblin.cool/horny_coder?ext=heatmap)
+![](https://leetcard.jacoblin.cool/jacoblincool?font=Dancing_Script)
