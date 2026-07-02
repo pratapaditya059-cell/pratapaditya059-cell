@@ -1,4 +1,7 @@
 # Hi there, I'm Aditya
+<a href="https://www.linkedin.com/in/aditya-pratap-081313291/">
+    <img src="https://img.shields.io/badge/LinkedIn-ADITYA%20PRATAP-7C4DFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratapaditya059-cell&style=for-the-badge&color=7C4DFF" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/pratapaditya059-cell?style=for-the-badge&color=7C4DFF&labelColor=1a1b27" alt="Followers" />
