@@ -1,5 +1,5 @@
 # Hi there, I'm Aditya
-<a href="https://www.linkedin.com/in/aditya-pratap-081313291/">
+<a href="https://www.linkedin.com/in/aditya-pratap-081313291/" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-ADITYA%20PRATAP-7C4DFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <p align="center">
